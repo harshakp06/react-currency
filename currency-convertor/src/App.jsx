@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+// import reactLogo from './assets/react.svg'
+// import viteLogo from '/vite.svg'
 import './App.css'
 import useCurrencyInfo from './hooks/useCurrencyInfo'
 import { InputBox } from "./components/index.js";
@@ -78,10 +78,6 @@ function App() {
         </div>
       </div>
     </div>
-
-    // <h1> welcome </h1>
-    
-    
   );
 }
 
